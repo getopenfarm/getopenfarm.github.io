@@ -1,0 +1,1 @@
+import{n as e}from"./live-demo.Dtx4mWSs.js";var t=document.querySelector(`[data-demo]`);t&&e(t);
